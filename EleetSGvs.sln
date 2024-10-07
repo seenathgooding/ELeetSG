@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowerPlacer", "FlowerPlacer\FlowerPlacer.csproj", "{17D03723-1503-42A5-A4CE-154E14148D1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxProdThree", "MaxProdThree\MaxProdThree.csproj", "{9F01A09C-B296-40BF-8820-E10E49CB5406}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{17D03723-1503-42A5-A4CE-154E14148D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17D03723-1503-42A5-A4CE-154E14148D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17D03723-1503-42A5-A4CE-154E14148D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F01A09C-B296-40BF-8820-E10E49CB5406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F01A09C-B296-40BF-8820-E10E49CB5406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F01A09C-B296-40BF-8820-E10E49CB5406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F01A09C-B296-40BF-8820-E10E49CB5406}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
